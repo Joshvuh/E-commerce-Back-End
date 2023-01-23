@@ -39,4 +39,4 @@
   <br>
   [Email](mailto:Joshualemmond@gmail.com) 
   <br>
-  [GitHub](https://github.com/Joshvu
+  [GitHub](https://github.com/Joshvuh)
